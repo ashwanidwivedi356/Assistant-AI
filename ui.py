@@ -3,7 +3,7 @@ import requests
 
 st.title("🔎 AI Web Search Assistant")
 
-query = st.text_input("Ask me anything...")
+query = st.text_input("Ask me any...")
 
 if query:
     with st.spinner("Searching the web and thinking..."):

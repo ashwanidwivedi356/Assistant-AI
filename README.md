@@ -26,9 +26,7 @@ Python	Core programming language
 .env	Secure API key management
 
 📂 Project Structure
-bash
-Copy
-Edit
+
 ai-search-assistant/
 │
 ├── app.py                 # Main Streamlit app
@@ -37,11 +35,9 @@ ai-search-assistant/
 ├── requirements.txt       # All dependencies
 └── .env                   # API keys and environment variables
 ⚙️ Installation & Run Locally
-bash
-Copy
-Edit
+
 # Clone the repo
-git clone https://github.com/your-username/ai-search-assistant.git
+git clone https://github.com/ashwanidwivedi356/Assistant-AI
 cd ai-search-assistant
 
 # Create virtual environment
@@ -58,9 +54,7 @@ touch .env
 # Run the app
 streamlit run app.py
 🔐 .env Example
-env
-Copy
-Edit
+
 OPENROUTER_API_KEY=your_openrouter_api_key
 📸 Screenshots
 
